@@ -13,4 +13,4 @@ A table-top gaming companion and more!
 
 
 ## My Static Comp
-<img src="images/jh-comp-challenge1.tiff" alt="jh comp challenege 1">
+![screenshot](images/jh-static-comp-challenge1.png)
