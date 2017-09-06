@@ -8,7 +8,8 @@ A table-top gaming companion and more!
 
 
 ## Original Specs
-<img src="images/static-comp-challege-1.jpg" alt="original comp">
+![static-comp-challenge-1](https://user-images.githubusercontent.com/30241151/30094490-d9bddc5e-9289-11e7-8c90-98872a87f322.jpg)
+
 
 
 ## My Static Comp
